@@ -1,4 +1,4 @@
-<h1>Read Me</h1>
+# Read Me
 <a href="http://167.179.72.25:8080/SSMWeb/" target="_blank">项目演示demo</a>初次启动较缓慢
 * 技术栈
 > * Spring + SpringMVC + MyBatis
@@ -18,4 +18,3 @@
 >  * 添加邮箱配置(JavaMail 配置QQ或者163邮箱)
 >  * 添加<a href="http://www.kdniao.com/api-all" target="_blank">快递鸟API</a>
 >  * 添加<a href="https://openhome.alipay.com/platform/appDaily.htm?tab=info" target="_blank">支付宝沙箱API</a>
-
