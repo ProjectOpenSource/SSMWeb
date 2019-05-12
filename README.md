@@ -1,6 +1,6 @@
 <h1>Read Me</h1>
 
-~~[项目演示demo](http://167.179.72.25:8080/SSMWeb/)~~暂时用不了了，服务炸了
+[~~项目演示demo~~](http://167.179.72.25:8080/SSMWeb/)暂时用不了了，服务炸了
 * 技术栈
 > * Spring + SpringMVC + MyBatis
 > * 邮箱注册(JavaMail + freeMarker)
