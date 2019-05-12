@@ -10,11 +10,11 @@
 > * 后台 + [Layui.JS](https://www.layui.com/doc/)
 * 其他方面
 > * 默认用户(拥有管理权限):
->  * 账号 : service
->  * 密码 : 123
+> > * 账号 : service
+> > * 密码 : 123
 > * 默认用户(普通用户):
->  * 账号 : tom
->  * 密码 : 123
+> > * 账号 : tom
+> > * 密码 : 123
 * 自己运行
 > * 修改基础配置(src/main/resources/props/*.properties)
 >  * 修改数据库连接配置
